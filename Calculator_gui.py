@@ -103,6 +103,7 @@ def widgets(window,photo):
     for i in range(3):
         window.grid_rowconfigure(i, weight=1)
 
+#Some variables
 prev=""
 prev_ans=0
 Starter_Code()
